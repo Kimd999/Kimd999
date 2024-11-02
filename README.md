@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm currently a network and security engineering student at ESIEE PARIS !
 <!--
 **Kimd999/Kimd999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
